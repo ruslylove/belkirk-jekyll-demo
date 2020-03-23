@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Home - MeeAi
 banner_image: "/uploads/2018/02/17/building.jpg"
 layout: landing-page
 heading: MeeAi
