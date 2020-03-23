@@ -1,6 +1,6 @@
 ---
 title: หน้าแรก
-banner_image: "/uploads/2018/02/17/building.jpg"
+banner_image: "/uploads/2020/03/23/unnamed.jpg"
 layout: landing-page
 heading: MeeAi
 partners:
