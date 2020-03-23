@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/uploads/2020/03/23/SSUT1-1.jpg"
+banner_image: "/uploads/2018/02/17/building.jpg"
 layout: landing-page
 heading: MeeAi
 partners:
