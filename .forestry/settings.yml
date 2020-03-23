@@ -8,7 +8,7 @@ sections:
   path: img
   label: img
   create: all
-  match: "**/*"
+  match: "*"
 - type: heading
   label: Content
 - type: jekyll-posts
