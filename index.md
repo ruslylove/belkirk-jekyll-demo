@@ -2,7 +2,7 @@
 title: Home
 banner_image: "/uploads/2020/03/23/SSUT1-1.jpg"
 layout: landing-page
-heading: Project AAA
+heading: MeeAi
 partners:
 - "/uploads/2020/03/23/moe.png"
 - "/uploads/2020/03/23/1200px-Srinakharinwirot_Logo.svg.png"
@@ -16,7 +16,8 @@ services:
     the biotechnology sector.
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: Engineering and Health Sciences
+sub_heading: โครงการติดตั้งระบบตรวจวัดแบบสมองกลฝังตัวและพยากรณ์ข้อมูลการใช้พลังงานไฟฟ้าเพื่อเพิ่มประสิทธิภาพการใช้พลังงาน
+  และประมาณการใช้พลังงานทดแทนด้วยปัญญาประดิษฐ์
 textline: |
   Belkirk College of Engineering
 
