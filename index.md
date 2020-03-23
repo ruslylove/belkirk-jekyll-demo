@@ -2,11 +2,12 @@
 title: Home
 banner_image: "/uploads/2020/03/23/SSUT1-1.jpg"
 layout: landing-page
-heading: Belkirk College
+heading: โครงการติดตั้งระบบตรวจวัดแบบสมองกลฝงตัวและพยากรณขอมูลการใชพลังงานไฟฟาเพื่อเพิ่ม
+  ประสิทธิภาพการใชพลังงานและประมาณการใชพลังงานทดแทนดวยปญญาประดิษฐ
 partners:
-- "/uploads/2020/03/23/logo_kmutnb-(6).png"
-- "/uploads/2020/03/23/1200px-Srinakharinwirot_Logo.svg.png"
 - "/uploads/2020/03/23/moe.png"
+- "/uploads/2020/03/23/1200px-Srinakharinwirot_Logo.svg.png"
+- "/uploads/2020/03/23/logo_kmutnb-(6).png"
 services:
 - description: Performing collaborative research and providing services to support
     the Health Sector.
