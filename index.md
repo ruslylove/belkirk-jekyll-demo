@@ -2,7 +2,7 @@
 title: หน้าแรก
 banner_image: "/uploads/2020/03/23/unnamed.jpg"
 layout: landing-page
-heading: MeeAi
+heading: MeeFai
 partners:
 - "/uploads/2020/03/23/moe.png"
 - "/uploads/2020/03/23/1200px-Srinakharinwirot_Logo.svg.png"
