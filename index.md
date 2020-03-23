@@ -18,7 +18,7 @@ services:
   icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: โครงการติดตั้งระบบตรวจวัดแบบสมองกลฝังตัวและพยากรณ์ข้อมูลการใช้พลังงานไฟฟ้าเพื่อเพิ่มประสิทธิภาพการใช้พลังงาน
   และประมาณการใช้พลังงานทดแทนด้วยปัญญาประดิษฐ์
-textline: Metering System for Energy Efficiency and Energy Forecast based on Artificial
+textline: Metering System for Energy Efficiency and Demanding Forecast based on Artificial
   Intelligence
 hero_button:
   text: Learn more
