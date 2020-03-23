@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/uploads/2020/03/23/SSUT1.jpg"
+banner_image: "/uploads/2020/03/23/SSUT1-1.jpg"
 layout: landing-page
 heading: Belkirk College
 partners:
