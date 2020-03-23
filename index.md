@@ -1,5 +1,5 @@
 ---
-title: Home - MeeAi
+title: หน้าแรก
 banner_image: "/uploads/2018/02/17/building.jpg"
 layout: landing-page
 heading: MeeAi
