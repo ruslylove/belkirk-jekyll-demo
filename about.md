@@ -1,7 +1,7 @@
 ---
 title: " เกี่ยวกับเรา"
 date: '2017-11-01T03:00:00.000+00:00'
-banner_image: "/uploads/2020/03/24/JOBFUNCTION-ELECTRICAL-ENGINEER-hero-electrical-engineer-ecad-001-1440x480.jpg"
+banner_image: "/uploads/2020/03/24/3453354.jpg"
 heading: About Belkirk
 sub_heading: Ora et Labora
 layout: landing-page
