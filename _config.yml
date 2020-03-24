@@ -1,6 +1,6 @@
-title: Belkirk College of Engineering
-short_title: Belkirk
-description: Jekyll demo for Forestry CMS
+title: Metering System for Energy Efficiency and Demanding Forecast based on Artificial Intelligence
+short_title: MeeFai
+description: MeeFai CMS
 baseurl:
 permalink: "/:path/"
 defaults:
